@@ -17,4 +17,4 @@ public class Quiz03 {
 		
 		System.out.println(r + " 값은: " + result);
 	}
-}
+} 
